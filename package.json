@@ -1,10 +1,10 @@
 {
-  "name": "seti-ui",
+  "name": "acs-ui",
   "theme": "ui",
-  "version": "0.8.1",
-  "description": "A dark colored UI theme for Atom with custom file icons.",
+  "version": "0.0.1",
+  "description": "Aaron C Shearer personal dev theme. A fork of seti-ui",
   "license": "MIT",
-  "repository": "https://github.com/jesseweed/seti-ui",
+  "repository": "https://github.com/aaroncshearer/acs-ui",
   "engines": {
     "atom": ">0.99.0"
   }
